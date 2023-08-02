@@ -24,7 +24,7 @@ E em seguida executar o index.html
 ## 👾 Deploy
 Projeto hospedado em:
 
-✅ <a href="https://klvgk.github.io/projeto-awax/">Awax Website</a>
+✅ <a href="https://klvgk.github.io/Projeto-Awax/">Awax Website</a>
 <br><br>
 
 ## :handshake: Colaboradores
